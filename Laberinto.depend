@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1395338172 source:c:\users\salguero\documents\c++\laberinto\lesson08.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	<string>
+
+1395618606 source:/home/alexander/Downloads/Tarea5/lesson08.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	<string>
+	<fstream>
+
